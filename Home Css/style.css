@@ -1,0 +1,82 @@
+body{
+    background-color: #cec9c9;
+}
+
+
+h1{
+text-align: center;
+color: #333;
+}
+p{
+    padding: 20px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial , sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+.navbar{
+    background-color: aquamarine;
+
+ display: flex;
+ justify-content: center; /* Center horizontally */
+
+
+
+ background-color: aliceblue;
+ padding: 20px 0; /* Add some top and bottom padding for spacing */
+}
+
+
+.actor{
+    background-color: greenyellow;
+}
+
+
+
+
+
+
+
+
+
+
+a{
+    padding:  20px ; /* Add some top and bottom padding for spacing */
+
+    font-size: 20px;
+    color: #333;
+    text-decoration: none;
+  
+}
+a:hover{
+    background-color: orange;
+}
+
+
+ul{
+    
+    list-style-type: none;
+    margin: 0;
+ 
+    margin: 0;
+    padding: 0;
+}
+
+.list{
+    display: inline; /* Display list items horizontally */
+    margin: 0 10px; /* Add horizontal spacing between list items */
+    font-size: 14px;
+
+}
+.logo{
+    width: 70px;
+}
